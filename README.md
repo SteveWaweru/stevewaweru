@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am **Steve Waweru**
 
-Here is my [portfolio](https://www.kuhustle.com/@stevewaweru)
+Here is my [portfolio](https://www.linkedin.com/in/stevewaweru/)
 
 I primarily am a solutions architect, finding solutions both on Health and Finance. My playground has its deep foundations with python which works great in developing web applications and data analysis. 
 
