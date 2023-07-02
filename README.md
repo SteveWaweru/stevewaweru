@@ -7,7 +7,3 @@ I primarily am a solutions architect, finding solutions through technology in va
 
 - I’m currently working on conversational AI chatbots. 
 - Interests include natural language understanding, building tech ecosystems and integrations of various technologies. 
-
-
-![](https://github-readme-stats.vercel.app/api?username=stevewaweru&show_icons=true&theme=dracula)
-
